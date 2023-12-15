@@ -1,17 +1,23 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy [Angel Iraheta]! 👋
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado ingeniero en sistemas con una fuerte base en desarrollo de software y administración de sistemas. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub.  Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## 🚀 Sobre mí
 
-- 🎓 Actualmente estudiando Ingeniería en Sistemas.
-- 💻 Apasionado por el desarrollo de software y la ciberseguridad.
+- 🎓 Actualmente estudiando Ingeniería de Sistemas Informaticos.
+- 💻 Apasionado por el desarrollo de software .
 - 🌐 Aprendiendo constantemente sobre nuevas tecnologías y tendencias.
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Aprendiendo y Mejorando en:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -29,7 +35,7 @@ Breve descripción del proyecto. Puedes añadir otra imagen o GIF animado aquí.
 
 ## 📫 Contáctame
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](enlace a tu perfil de LinkedIn) o [Twitter](enlace a tu perfil de Twitter).
+¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](enlace a tu perfil de LinkedIn) .
 
 ## 🎉 ¡Gracias por visitar!
 
