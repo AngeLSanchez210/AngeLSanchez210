@@ -1,11 +1,11 @@
-# ¡Hola, soy [Angel Iraheta]! 👋
+# ¡Hola, soy Angel Iraheta! 👋
 
-Bienvenido a mi perfil de GitHub.  Aquí encontrarás algunos de mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## 🚀 Sobre mí
 
-- 🎓 Actualmente estudiando Ingeniería de Sistemas Informaticos.
-- 💻 Apasionado por el desarrollo de software .
+- 🎓 Actualmente estudiando Ingeniería de Sistemas Informáticos.
+- 💻 Apasionado por el desarrollo de software.
 - 🌐 Aprendiendo constantemente sobre nuevas tecnologías y tendencias.
 
 ## 🛠️ Aprendiendo y Mejorando en:
@@ -23,21 +23,20 @@ Bienvenido a mi perfil de GitHub.  Aquí encontrarás algunos de mis proyectos y
 
 ## 🚀 Proyectos Destacados
 
-### [Método-Hamming]((https://github.com/AngeLSanchez210/Metodo-Hamming.git))
-Proyecto Desarrollado entre tres colaboradores enfocado en realizar el metodo de deteccion  de errores "Hamming" programado en c#.
+### [Método-Hamming](https://github.com/AngeLSanchez210/Metodo-Hamming.git)
+Proyecto desarrollado entre tres colaboradores enfocado en realizar el método de detección de errores "Hamming" programado en C#.
 
+### [Libreria-Sakura](https://github.com/Isaac684/SakurasBookstore.git)
+Proyecto desarrollado con el fin de la creación de una tienda, en este caso, enfocada en una librería, desarrollado principalmente en HTML, JS y CSS (frontend), PHP (backend).
 
-### [Libreria-Sakura]((https://github.com/Isaac684/SakurasBookstore.git))
-Proyecto Desarrollado con el fin de la creacion de una tienda en este caso enfocada en una libreria desarrollado principalmente en html,js y css (fronted), php(backend).
-
-### [Pokedex]((https://github.com/Isaac684/TPI_Pokedex.git))
-Este proyecto se realizo una pokedex de la primera generacion de pokemones por medio  de la pokeApi, aplicando los conocimientos de promesos y retorno de informacion.
-
+### [Pokedex](https://github.com/Isaac684/TPI_Pokedex.git)
+Este proyecto se realizó una Pokedex de la primera generación de Pokémon por medio de la PokeAPI, aplicando los conocimientos de promesas y retorno de información.
 
 ## 📫 Contáctame
 
-¡Me encantaría conectarme contigo! Puedes contactarme a mi correo electronico [angelsanchezafis@gmail.com] .
+¡Me encantaría conectarme contigo! Puedes contactarme a mi correo electrónico [angelsanchezafis@gmail.com].
 
 ## 🎉 ¡Gracias por visitar!
 
 ¡Gracias por pasar por aquí! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme directamente. ¡Hagamos cosas increíbles juntos! 🚀
+
