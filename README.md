@@ -30,11 +30,13 @@ Proyecto Desarrollado entre tres colaboradores enfocado en realizar el metodo de
 ### [Libreria-Sakura]((https://github.com/Isaac684/SakurasBookstore.git))
 Proyecto Desarrollado con el fin de la creacion de una tienda en este caso enfocada en una libreria desarrollado principalmente en html,js y css (fronted), php(backend).
 
+### [Pokedex]((https://github.com/Isaac684/TPI_Pokedex.git))
+Este proyecto se realizo una pokedex de la primera generacion de pokemones por medio  de la pokeApi, aplicando los conocimientos de promesos y retorno de informacion.
 
 
 ## 📫 Contáctame
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](enlace a tu perfil de LinkedIn) .
+¡Me encantaría conectarme contigo! Puedes contactarme a mi correo electronico [angelsanchezafis@gmail.com] .
 
 ## 🎉 ¡Gracias por visitar!
 
