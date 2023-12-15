@@ -1,7 +1,7 @@
-![Banner](https://tep.pucmm.edu.do/PublishingImages/Educacion-continuada/Intro-Programacion-banner-2.jpg)
+
 
 # ¡Hola, soy Angel Iraheta! 👋
-
+![Banner](https://tep.pucmm.edu.do/PublishingImages/Educacion-continuada/Intro-Programacion-banner-2.jpg)
 Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## 🚀 Sobre mí
