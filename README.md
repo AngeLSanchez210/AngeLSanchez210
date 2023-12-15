@@ -26,8 +26,10 @@ Bienvenido a mi perfil de GitHub.  Aquí encontrarás algunos de mis proyectos y
 ### [Método-Hamming]((https://github.com/AngeLSanchez210/Metodo-Hamming.git))
 Proyecto Desarrollado entre tres colaboradores enfocado en realizar el metodo de deteccion  de errores "Hamming" programado en c#.
 
-### [Libreria-Sakura](https://github.com/Isaac684/SakurasBookstore.git)
-Proyecto Desarrollado entre tres colaboradores enfocado en realizar el metodo de deteccion  de errores "Hamming" programado en c#.
+
+### [Libreria-Sakura]((https://github.com/Isaac684/SakurasBookstore.git))
+Proyecto Desarrollado con el fin de la creacion de una tienda en este caso enfocada en una libreria desarrollado principalmente en html,js y css (fronted), php(backend).
+
 
 
 ## 📫 Contáctame
