@@ -34,7 +34,7 @@ Este proyecto se realizó una Pokedex de la primera generación de Pokémon por 
 
 ## 📫 Contáctame
 
-¡Me encantaría conectarme contigo! Puedes contactarme a mi correo electrónico [angelsanchezafis@gmail.com].
+¡Me encantaría conectarme contigo! Puedes contactarme a mi correo electrónico angelsanchezafis@gmail.com.
 
 ## 🎉 ¡Gracias por visitar!
 
