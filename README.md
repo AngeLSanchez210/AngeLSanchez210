@@ -23,15 +23,10 @@ Bienvenido a mi perfil de GitHub.  Aquí encontrarás algunos de mis proyectos y
 
 ## 🚀 Proyectos Destacados
 
-### [Nombre del Proyecto 1](enlace al proyecto)
-Breve descripción del proyecto. Puedes añadir una imagen o un GIF animado que represente el proyecto.
+### [Método-Hamming]([enlace al proyecto](https://github.com/AngeLSanchez210/Metodo-Hamming.git))
+Proyecto Desarrollado entre tres colaboradores enfocado en realizar el metodo de deteccion  de errores "Hamming" programado en c#.
 
-![Proyecto 1](enlace a la imagen o GIF animado)
 
-### [Nombre del Proyecto 2](enlace al proyecto)
-Breve descripción del proyecto. Puedes añadir otra imagen o GIF animado aquí.
-
-![Proyecto 2](enlace a la imagen o GIF animado)
 
 ## 📫 Contáctame
 
