@@ -53,27 +53,4 @@ Este proyecto se realizó una Pokedex de la primera generación de Pokémon por 
     ¡Gracias por pasar por aquí! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme directamente. ¡Hagamos cosas increíbles juntos! 🚀
 </p>
 
-<style>
-    @keyframes gradient {
-        0% {
-            background-position: 0% 50%;
-        }
-        50% {
-            background-position: 100% 50%;
-        }
-        100% {
-            background-position: 0% 50%;
-        }
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-        background: linear-gradient(45deg, #ff6ec4, #7873f5, #5eb3f8);
-        background-size: 400% 400%;
-        animation: gradient 15s ease infinite;
-        color: transparent;
-        background-clip: text;
-        -webkit-background-clip: text;
-    }
-</style>
-
 
