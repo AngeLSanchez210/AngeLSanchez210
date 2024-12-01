@@ -1,54 +1,82 @@
-# <p align="center">¡Hola, soy Angel Iraheta! 👋</p>
+<div align="center">
+  
+# Angel Iraheta
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Full+Stack;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
 
+</div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Estudiante%20de-Ingeniería%20de%20Sistemas%20Informáticos-blue" alt="Ingeniería de Sistemas Informáticos"/>
-    <img src="https://img.shields.io/badge/Desarrollador-Apasionado%20por%20el%20software-red" alt="Desarrollador de Software"/>
-    <img src="https://img.shields.io/badge/Aprendiendo-Nuevas%20tecnologías-green" alt="Aprendiendo Nuevas Tecnologías"/>
-</p>
+## 👨‍💻 Perfil Profesional
 
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
+Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarrollo de software y las nuevas tecnologías. Me especializo en el desarrollo full-stack y constantemente busco aprender y crecer en el campo de la tecnología.
 
-## 🚀 Sobre mí
+<div align="center">
 
-- 🎓 Actualmente estudiando Ingeniería de Sistemas Informáticos.
-- 💻 Apasionado por el desarrollo de software.
-- 🌐 Aprendiendo constantemente sobre nuevas tecnologías y tendencias.
+[![GitHub followers](https://img.shields.io/github/followers/AngeLSanchez210?style=social)](https://github.com/AngeLSanchez210)
+[![LinkedIn](https://img.shields.io/badge/-Angel_Iraheta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-iraheta/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:angelsanchezafis@gmail.com)
+
+</div>
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Herramientas y Tecnologías
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeLSanchez210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLSanchez210&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 🚀 Proyectos Destacados
 
-### [Método-Hamming](https://github.com/AngeLSanchez210/Metodo-Hamming.git)
-Proyecto desarrollado entre tres colaboradores enfocado en realizar el método de detección de errores "Hamming" programado en C#.
+<div align="center">
 
-### [Libreria-Sakura](https://github.com/Isaac684/SakurasBookstore.git)
-Proyecto desarrollado con el fin de la creación de una tienda, en este caso, enfocada en una librería, desarrollado principalmente en HTML, JS y CSS (frontend), PHP (backend).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeLSanchez210&repo=Metodo-Hamming&theme=tokyonight)](https://github.com/AngeLSanchez210/Metodo-Hamming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac684&repo=SakurasBookstore&theme=tokyonight)](https://github.com/Isaac684/SakurasBookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac684&repo=TPI_Pokedex&theme=tokyonight)](https://github.com/Isaac684/TPI_Pokedex)
 
-### [Pokedex](https://github.com/Isaac684/TPI_Pokedex.git)
-Este proyecto se realizó una Pokedex de la primera generación de Pokémon por medio de la PokeAPI, aplicando los conocimientos de promesas y retorno de información.
+</div>
 
-## 📫 Contáctame
+### 📌 Detalles de Proyectos
 
-<p align="center">
-    <a href="mailto:angelsanchezafis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/angel-iraheta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/AngeLSanchez210"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+- **Método-Hamming**: Implementación del algoritmo de detección y corrección de errores de Hamming en C#.
+- **Libreria-Sakura**: Sistema de gestión de librería con frontend en HTML/CSS/JS y backend en PHP.
+- **Pokedex**: Aplicación web que consume la PokeAPI para mostrar información de la primera generación de Pokémon.
 
-## 🎉 ¡Gracias por visitar!
+## 📫 Contacto
 
-<p align="center">
-    ¡Gracias por pasar por aquí! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme directamente. ¡Hagamos cosas increíbles juntos! 🚀
-</p>
+<div align="center">
 
+¿Interesado en colaborar? ¡Contáctame!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-iraheta/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelsanchezafis@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngeLSanchez210)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngeLSanchez210&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al Perfil"/>
+  
+  ### ¡Gracias por visitar mi perfil! 👋
+</div>
 
