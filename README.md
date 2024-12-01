@@ -1,8 +1,6 @@
 # <p align="center">¡Hola, soy Angel Iraheta! 👋</p>
 
-<div align="center">
-    <img src="https://www.xtrafondos.com/wallpapers/resized/programacion-computadora-y-lentes-10837.jpg?s=large" alt="Banner" width="600"/>
-</div>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Estudiante%20de-Ingeniería%20de%20Sistemas%20Informáticos-blue" alt="Ingeniería de Sistemas Informáticos"/>
