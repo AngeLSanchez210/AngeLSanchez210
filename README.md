@@ -2,7 +2,7 @@
   
 # Angel Iraheta
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+Informaticos;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
 
 </div>
 
