@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarrollo de software y las nuevas tecnologías. Me especializo en el desarrollo full-stack y constantemente busco aprender y crecer en el campo de la tecnología.
+Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarrollo de software y las nuevas tecnologías. Constantemente busco aprender y crecer en el campo de la tecnología.
 
 <div align="center">
 
@@ -22,7 +22,7 @@ Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarroll
 
 <div align="center">
 
-### Lenguajes de Programación
+### Lenguajes de Programación mejorando y aprendiendo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,7 +30,7 @@ Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarroll
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Herramientas y Tecnologías
+### Herramientas y Tecnologías utilizadas.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
