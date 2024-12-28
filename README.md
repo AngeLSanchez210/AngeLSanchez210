@@ -2,7 +2,7 @@
   
 # Hola. soy Angel Iraheta
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -22,7 +22,7 @@ Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarroll
 
 <div align="center">
 
-### Lenguajes de Programación mejorando y aprendiendo
+### Lenguajes de Programación.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
