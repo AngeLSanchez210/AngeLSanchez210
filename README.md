@@ -1,28 +1,24 @@
 <div align="center">
   
-# Hola. soy Angel Iraheta
+# ¡Hola! 👋 Soy Angel Iraheta
 
-
-
-</div>
-
-## 👨‍💻 Perfil Profesional
-
-Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarrollo de software y las nuevas tecnologías. Constantemente busco aprender y crecer en el campo de la tecnología.
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/AngeLSanchez210?style=social)](https://github.com/AngeLSanchez210)
-[![LinkedIn](https://img.shields.io/badge/-Angel_Iraheta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-iraheta/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:angelsanchezafis@gmail.com)
+**Estudiante de Ingeniería de Sistemas Informáticos | Apasionado por el Desarrollo de Software y la Innovación Tecnológica**
 
 </div>
 
-## 🛠️ Stack Tecnológico
+---
+
+## 👨‍💻 Sobre Mí
+
+Soy un estudiante de Ingeniería de Sistemas Informáticos con una gran pasión por el desarrollo de software, la inteligencia artificial y las tecnologías emergentes. Me encanta resolver problemas, aprender nuevas tecnologías y colaborar en proyectos innovadores. Siempre estoy buscando oportunidades para crecer profesionalmente y contribuir al mundo de la tecnología.
+
+---
+
+## 🚀 Habilidades Técnicas
 
 <div align="center">
 
-### Lenguajes de Programación.
+### **Lenguajes de Programación**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,45 +26,83 @@ Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarroll
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Herramientas y Tecnologías utilizadas.
+### **Frameworks y Librerías**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Bases de Datos**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Herramientas y Tecnologías**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
+
+---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeLSanchez210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLSanchez210&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeLSanchez210&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLSanchez210&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeLSanchez210&theme=radical"/>
 </div>
 
-## 🚀 Proyectos Destacados
+---
+
+## 🌟 Proyectos Destacados
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeLSanchez210&repo=Metodo-Hamming&theme=tokyonight)](https://github.com/AngeLSanchez210/Metodo-Hamming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac684&repo=SakurasBookstore&theme=tokyonight)](https://github.com/Isaac684/SakurasBookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac684&repo=TPI_Pokedex&theme=tokyonight)](https://github.com/Isaac684/TPI_Pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeLSanchez210&repo=Metodo-Hamming&theme=radical)](https://github.com/AngeLSanchez210/Metodo-Hamming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac684&repo=SakurasBookstore&theme=radical)](https://github.com/Isaac684/SakurasBookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac684&repo=TPI_Pokedex&theme=radical)](https://github.com/Isaac684/TPI_Pokedex)
 
 </div>
 
-### 📌 Detalles de Proyectos
-
+### **Detalles de Proyectos**
 - **Método-Hamming**: Implementación del algoritmo de detección y corrección de errores de Hamming en C#.
 - **Libreria-Sakura**: Sistema de gestión de librería con frontend en HTML/CSS/JS y backend en PHP.
 - **Pokedex**: Aplicación web que consume la PokeAPI para mostrar información de la primera generación de Pokémon.
 
-## 📫 Contacto
+---
+
+## 🎨 Diseño y Creatividad
+
+También me apasiona el diseño y la creatividad. Aquí tienes una muestra de mi trabajo:
 
 <div align="center">
 
-¿Interesado en colaborar? ¡Contáctame!
+![GIF Animado](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)  
+*Diseño interactivo con CSS y JavaScript*
+
+</div>
+
+---
+
+## 📚 Aprendiendo Actualmente
+
+- **Machine Learning** con Python y TensorFlow.
+- **Desarrollo de Aplicaciones Móviles** con Flutter.
+- **Cloud Computing** en AWS y Google Cloud.
+
+---
+
+## 📫 ¡Conéctate Conmigo!
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-iraheta/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelsanchezafis@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngeLSanchez210)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
 </div>
 
@@ -77,6 +111,5 @@ Estudiante de Ingeniería de Sistemas Informáticos con pasión por el desarroll
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AngeLSanchez210&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al Perfil"/>
   
-  ### ¡Gracias por visitar mi perfil! 👋
+  ### ¡Gracias por visitar mi perfil! Espero que te haya gustado 😄
 </div>
-
