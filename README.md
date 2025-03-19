@@ -1,11 +1,11 @@
 <div align="center">
 
-# ¡Hola, soy Angel Iraheta! 🚀
+# ¡Hola, soy Angel Iraheta! 👋
 
-**"El código es mi superpoder, y cada proyecto es una nueva aventura."**
+**Ingeniero de Sistemas en formación | Apasionado por la innovación y el desarrollo de software**
 
-![GIF Épico](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
-*"Transformando ideas en realidad, una línea de código a la vez."*
+![Animación Profesional](https://media.giphy.com/media/3o7TKsQ1Z2lO9Z5Z6E/giphy.gif)  
+*"Construyendo soluciones que transforman el mundo, un proyecto a la vez."*
 
 </div>
 
