@@ -4,7 +4,6 @@
 
 **Ingeniero de Sistemas en formación | Apasionado por la innovación y el desarrollo de software**
 
-![Animación Profesional](https://media.giphy.com/media/3o7TKsQ1Z2lO9Z5Z6E/giphy.gif)  
 *"Construyendo soluciones que transforman el mundo, un proyecto a la vez."*
 
 </div>
