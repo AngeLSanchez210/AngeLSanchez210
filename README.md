@@ -1,8 +1,11 @@
 <div align="center">
-  
-# ¡Hola! 👋 Soy Angel Iraheta
 
-**Estudiante de Ingeniería de Sistemas Informáticos | Apasionado por el Desarrollo de Software y la Innovación Tecnológica**
+# ¡Hola, soy Angel Iraheta! 🎮
+
+**"En el mundo del código, cada línea es una misión y cada bug es un jefe final."**
+
+![GIF Épico](https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif)  
+*"La aventura del desarrollo nunca termina."*
 
 </div>
 
