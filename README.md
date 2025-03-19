@@ -4,8 +4,8 @@
 
 **"En el mundo del código, cada línea es una misión y cada bug es un jefe final."**
 
-![GIF Épico](https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif)  
-*"La aventura del desarrollo nunca termina."*
+![GIF Gamer](https://media.giphy.com/media/3o7TKz2eMXx7cn9eU0/giphy.gif)  
+*"Preparado para superar cualquier desafío, ¡game on!"*
 
 </div>
 
