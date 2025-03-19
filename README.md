@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Angel Iraheta! 👋
 
-**Ingeniero de Sistemas en formación | Apasionado por la innovación y el desarrollo de software**
+**Ingeniero de Sistemas Informaticos en formación | Apasionado por la innovación y el desarrollo de software**
 
 *"Construyendo soluciones que transforman el mundo, un proyecto a la vez."*
 
