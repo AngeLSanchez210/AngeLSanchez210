@@ -1,11 +1,11 @@
 <div align="center">
 
-# ¡Hola, soy Angel Iraheta! 🎮
+# ¡Hola, soy Angel Iraheta! 🚀
 
-**"En el mundo del código, cada línea es una misión y cada bug es un jefe final."**
+**"El código es mi superpoder, y cada proyecto es una nueva aventura."**
 
-![GIF Gamer](https://media.giphy.com/media/3o7TKz2eMXx7cn9eU0/giphy.gif)  
-*"Preparado para superar cualquier desafío, ¡game on!"*
+![GIF Épico](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+*"Transformando ideas en realidad, una línea de código a la vez."*
 
 </div>
 
