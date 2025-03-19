@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un estudiante de Ingeniería de Sistemas Informáticos con una gran pasión por el desarrollo de software, la inteligencia artificial y las tecnologías emergentes. Me encanta resolver problemas, aprender nuevas tecnologías y colaborar en proyectos innovadores. Siempre estoy buscando oportunidades para crecer profesionalmente y contribuir al mundo de la tecnología.
+Soy un estudiante de Ingeniería de Sistemas Informáticos con una gran pasión por el desarrollo de software y las tecnologías emergentes. Me encanta resolver problemas, aprender nuevas tecnologías y colaborar en proyectos innovadores. Siempre estoy buscando oportunidades para crecer profesionalmente y contribuir al mundo de la tecnología.
 
 ---
 
@@ -27,20 +27,19 @@ Soy un estudiante de Ingeniería de Sistemas Informáticos con una gran pasión 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frameworks y Librerías**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### **Bases de Datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 
 ### **Herramientas y Tecnologías**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 </div>
 
@@ -71,28 +70,9 @@ Soy un estudiante de Ingeniería de Sistemas Informáticos con una gran pasión 
 - **Libreria-Sakura**: Sistema de gestión de librería con frontend en HTML/CSS/JS y backend en PHP.
 - **Pokedex**: Aplicación web que consume la PokeAPI para mostrar información de la primera generación de Pokémon.
 
----
 
-## 🎨 Diseño y Creatividad
 
-También me apasiona el diseño y la creatividad. Aquí tienes una muestra de mi trabajo:
 
-<div align="center">
-
-![GIF Animado](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)  
-*Diseño interactivo con CSS y JavaScript*
-
-</div>
-
----
-
-## 📚 Aprendiendo Actualmente
-
-- **Machine Learning** con Python y TensorFlow.
-- **Desarrollo de Aplicaciones Móviles** con Flutter.
-- **Cloud Computing** en AWS y Google Cloud.
-
----
 
 ## 📫 ¡Conéctate Conmigo!
 
